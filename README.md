@@ -51,3 +51,5 @@ node index.js # To start the ticket-bot
 ```
 
 ## Many thanks to the people who will put a ⭐!
+
+[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
